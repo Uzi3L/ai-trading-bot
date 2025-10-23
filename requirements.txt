@@ -5,3 +5,6 @@ scikit-learn
 vectorbt
 matplotlib
 pyyaml
+alpaca-py
+streamlit
+plotly
